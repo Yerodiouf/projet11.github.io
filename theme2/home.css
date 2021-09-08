@@ -1,0 +1,131 @@
+body{
+    background-image: url(BAMBA2021.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+/*
+section{
+    background-color: #103ef8;
+    opacity: 0.8;
+    width: 100%;
+    height: 500px;
+
+}
+*/
+ ul li
+{
+	display: inline-block;
+    margin-left: -20px;
+    padding: 10x;
+    margin-top: 20px;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 50px;
+	color: #f8f5f5;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#menu{
+    margin-top: -15px;
+}
+h1{
+    color: white;
+    margin-left: 60px;
+    font-size: 70px;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+p{
+    color: white;
+    margin-left: 68px;
+    margin-top: -67px;
+}
+
+h2{
+    font-family: bernard MT condensed;
+    margin-left: 1030px;
+    margin-top: -45px;
+    font-size: 20px;
+    color: white;
+}
+.nov{
+    color: white;
+    margin-left: 1030px;
+    margin-top: -12px;
+}
+.av{
+    color: white;
+    margin-left: 1050px;
+    margin-top: -22px;
+}
+/*nos réseaux sociaux*/
+.facebook{
+    margin-top: -50px;
+    margin-left: 40px;
+    width: 155px;
+    height: 105px;
+}
+.twitter{
+    margin-top: -85px;
+    width: 185px;
+    height: 130px;
+    margin-left: -28px;
+}
+.instagram{
+    margin-top: -127px;
+    margin-left: 125px;
+    width: 90px;
+    height: 90px;
+}
+/*terminer pour les réseaux sociaux*/
+hr{
+    width: 48px;
+    margin-left: 70px;
+    margin-top: -17px;
+    color: white;
+    padding: 2px;
+    background: white;
+}
+#yoursite{
+    margin-top: 150px;
+    margin-left: 400px;
+}
+input{
+    margin-left: 380px;
+    margin-top: -70px;
+    border-radius: 190px;
+    width: 150px;
+}
+.learn{
+    margin-left: 69px;
+    margin-top: -95px;
+}
+#gg{
+    margin-top: -35px;
+}
+.y1{
+    color: white;
+    margin-top: -122px;
+    margin-left: 100px;
+}
+.y2{
+    color: white;
+   margin-top: -38px;
+   margin-left: 220px;
+}
+.y3{
+    color: white;
+    margin-left: 350px;
+    margin-top: -36px;
+    
+}
+#logo{
+    margin-left: 950px;
+    margin-top: -42px;
+}

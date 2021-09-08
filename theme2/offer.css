@@ -1,0 +1,82 @@
+body{
+    background: rgb(12, 12, 12);
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+ul li
+{
+	display: inline-block;
+    margin-left: -20px;
+    padding: 10x;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 50px;
+	color: #f8f5f5;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#menu{
+    margin-top: 40px;
+}
+#logo{
+    margin-left: 900px;
+    margin-top: -58px;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	margin-top: 25px;
+}
+p{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+hr{
+	background-color: blue;
+	padding: 2px;
+	width: 250px;
+	margin-top: -15px;
+}
+/*nos réseaux sociaux*/
+.facebook{
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 155px;
+    height: 105px;
+}
+.twitter{
+    margin-top: -45px;
+    width: 185px;
+    height: 130px;
+    margin-left: -28px;
+}
+.instagram{
+    margin-top: -88px;
+    margin-left: 125px;
+    width: 90px;
+    height: 90px;
+}
+/*terminer pour les réseaux sociaux*/
+.y1{
+    color: white;
+    margin-top: -122px;
+    margin-left: 100px;
+}
+.y2{
+    color: white;
+   margin-top: -38px;
+   margin-left: 220px;
+}
+.y3{
+    color: white;
+    margin-left: 350px;
+    margin-top: -36px;
+    
+}
